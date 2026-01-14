@@ -1,0 +1,44 @@
+Company Name: NovaWealth Advisors Pvt. Ltd.
+
+Policy Title: Corporate Finance and Risk Management Policy  
+Effective Date: January 1, 2025  
+Approved By: Chief Financial Officer (CFO) — Ms. Kavita Sharma  
+
+1. Expense Approval Policy:
+   - All business-related expenses above ₹25,000 must be pre-approved by the Finance Department.
+   - Corporate card holders are required to upload digital copies of invoices within 5 working days.
+   - Personal purchases using company funds are strictly prohibited and may result in disciplinary action.
+   - Employee reimbursements are processed on the 10th and 25th of each month.
+
+2. Investment Policy:
+   - The company follows a balanced portfolio strategy with a 60:40 ratio between equity and debt instruments.
+   - Investments in cryptocurrency or unregulated financial assets are not permitted.
+   - External financial advisors must be registered under SEBI (Securities and Exchange Board of India).
+   - Annual performance reviews of all investment instruments are conducted by the Risk Committee.
+
+3. Cash Flow and Treasury Management:
+   - Minimum cash reserve of ₹50 lakh must be maintained in the company’s main account at all times.
+   - Idle funds exceeding ₹10 lakh for more than 30 days must be transferred to short-term deposits.
+   - All inter-departmental fund transfers require written authorization from the CFO.
+   - Treasury reports are reviewed weekly to track liquidity and fund utilization.
+
+4. Vendor Payment Policy:
+   - Vendors must be registered with valid GST and PAN numbers.
+   - Standard payment terms are Net-30 (payment within 30 days of invoice date).
+   - Early payment discounts up to 2% may be availed if cash flow permits.
+   - Any vendor dispute exceeding ₹1 lakh must be escalated to the Legal and Compliance Department.
+
+5. Internal Audit and Compliance:
+   - Internal financial audits are conducted every quarter by an independent audit team.
+   - All employees must cooperate with auditors and provide requested financial documents within 48 hours.
+   - Any discrepancy or irregularity must be reported immediately to the CFO.
+   - Repeated violations of financial procedures may lead to suspension or termination.
+
+6. Risk Management and Reporting:
+   - The company uses a 3-tier risk rating system: Low, Moderate, and High.
+   - All high-risk financial activities must be reported to the Risk Committee within 24 hours.
+   - The CFO presents a quarterly Risk Assessment Report to the Board of Directors.
+   - A Business Continuity Plan (BCP) ensures operational stability during financial crises.
+
+Confidential Notice:  
+This policy is intended for internal use only. Unauthorized sharing of financial policies or internal reports outside NovaWealth Advisors Pvt. Ltd. is a breach of confidentiality.
